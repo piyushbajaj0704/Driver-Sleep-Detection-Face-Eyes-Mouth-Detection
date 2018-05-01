@@ -10,4 +10,4 @@ Sobel Edge Detection (MATLAB inbuilt)
 
 Output:
 
-![alt text](https://github.com/piyushbajaj0704/Restaurant-Tables-Arrangement/blob/master/Screenshot.png)
+![alt text](https://github.com/piyushbajaj0704/Driver-Sleep-Detection-Face-Eyes-Mouth-Detection/blob/master/Screenshot.png)
